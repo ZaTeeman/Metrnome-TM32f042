@@ -553,7 +553,7 @@ int main(void)
 	LCD_String(ForFlash.page[0].Name);
 
   /* USER CODE END 2 */
-
+// впарлощдзхжэзлорпа
   /* Infinite loop */
   /* USER CODE BEGIN WHILE */
   while (1)
